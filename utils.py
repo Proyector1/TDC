@@ -1,3 +1,5 @@
-# Utilidades
+# Funciones utilitarias
+
 def saludar(nombre):
-    return f'Hola {nombre}'
+    saludo = f'Hola {nombre}'
+    return saludo
